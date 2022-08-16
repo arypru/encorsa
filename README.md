@@ -1,4 +1,4 @@
-<p align="center"><a href="https://encorsa.corrientes.gob.ar/" target="_blank">
+<p align="center"><a target="_blank" href="https://encorsa.corrientes.gob.ar/" target="_blank">
 <img src="https://user-images.githubusercontent.com/96505718/184791303-1b52e93c-3462-4b46-921d-dbe59ec2f422.svg" width="200"></a>
 </p>
 
